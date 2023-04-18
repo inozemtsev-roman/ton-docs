@@ -80,7 +80,7 @@ console.log('URI to off-chain metadata:', data.jettonContentUri);
 ```
 
 #### Jetton metadata
-More info on parsing metadata is given [here](develop/dapps/asset-processing/metadata).
+More info on parsing metadata is given [here](/develop/dapps/asset-processing/metadata).
 
 ## Jetton wallet smart contract
 Jetton wallet contracts are used to receive, sending and burning Jettons. Each _jetton wallet_ stores information on balance of specific user. There are individual instance of _jetton wallet_ for each jetton holder of of each Jetton.
